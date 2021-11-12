@@ -1,6 +1,12 @@
 ### Hi 👋 Faustino Manuel
 
-Desenvolvedor desde 2018, com longa experiência de trabalho e técnicas de desenvolvimento de software como: **Solid**, **Clean Architeture**, **Rest** e **GraphQL**. Actualmente trabalho como free-lance para algumas empresas usando como linguagem principal Java e Kotlin e seus frameworks Spring e Quarkus apesar de ter o pé mais para o Back-end as vezes actuo também no Front-end com TypeScript e VueJs
+Developer with over 3 years of experience in software development with a focus on the Java platform. US
+The last few years I have been working as a **BackEnd(Java and Kotlin)** developer using **Spring-Boot** and **Quarkus** frameworks that speed up Software development and other tasks in the Software Development world.
+
+==============================================
+
+Desenvolvedor com mais de 3 anos de Experiência no desenvolvimento de Software com foco na plataforma Java. nos
+últimos anos tenho trabalhado como desenvolvedor **BackEnd(Java e Kotlin)** usando **Spring-Boot** e **Quarkus** frameworks que aceleram o desenvolvimento de Software e outras tarefas no mundo de Desenvolvimento de Software
 
  <div>
   <a href="https://github.com/fmanuel98">
