@@ -1,12 +1,6 @@
 ### Hi 👋 Faustino Manuel
 
-Developer with over 4 years of experience in software development with a focus on the Java platform. US
-The last few years I have been working as a **BackEnd(Java and Kotlin)** developer using **Spring-Boot** and **Quarkus** frameworks that speed up Software development and other tasks in the Software Development world.
-
-==============================================
-
-Desenvolvedor com mais de 4 anos de Experiência no desenvolvimento de Software com foco na plataforma Java. nos
-últimos anos tenho trabalhado como desenvolvedor **BackEnd(Java e Kotlin)** usando **Spring-Boot** e **Quarkus** frameworks que aceleram o desenvolvimento de Software e outras tarefas no mundo de Desenvolvimento de Software
+Trabalho na área de **T.I desde 2018**. Sou um profissional experiente, flexível, versátil, pró activo, autodidata, que gosta de aprender coisas novas e trabalha muito bem em equipe.Tive a **oportunidade de actuar com desenvolvimento, análise de sistemas, modelagem de sistemas** e como instrutor de lógica de programação e POO. Neste percurso profissional, pude desenvolver, definir arquiteturas e aperfeiçoar **softwares em ambientes Java e Kotlin**. **Meu objectivo é resolver problemas e propor as melhores soluções para cada cenário.**
 
  <div>
   <a href="https://github.com/fmanuel98">
