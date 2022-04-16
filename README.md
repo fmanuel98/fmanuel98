@@ -1,6 +1,6 @@
 ### Hi 👋 Faustino Manuel
 
-Trabalho na área de **T.I desde 2018**. Sou um profissional experiente, flexível, versátil, pró activo, autodidata, que gosta de aprender coisas novas e trabalha muito bem em equipe.Tive a **oportunidade de actuar com desenvolvimento, análise de sistemas, modelagem de sistemas** e como instrutor de lógica de programação e POO. Neste percurso profissional, pude desenvolver, definir arquiteturas e aperfeiçoar **softwares em ambientes Java e Kotlin**. **Meu objectivo é resolver problemas e propor as melhores soluções para cada cenário.**
+**Programador desde 2018**. Sou um profissional experiente, flexível, versátil, pró activo, autodidata, que gosta de aprender coisas novas e trabalha muito bem em equipe.Tive a **oportunidade de actuar com desenvolvimento, análise de sistemas, modelagem de sistemas** e como instrutor de lógica de programação e POO. Neste percurso profissional, pude desenvolver, definir arquiteturas e aperfeiçoar **softwares em ambientes Java e Kotlin**. **Meu objectivo é resolver problemas e propor as melhores soluções para cada cenário.**
 
  <div>
   <a href="https://github.com/fmanuel98">
